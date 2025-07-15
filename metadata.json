@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Etiquetas de Preço",
+  "description": "Uma aplicação web para converter planilhas Excel em etiquetas de preço modernas e prontas para impressão. Carregue um arquivo com as colunas 'descrição', 'preço' e 'unidade medida' para gerar 20 etiquetas por folha A4.",
+  "requestFramePermissions": []
+}

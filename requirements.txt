@@ -1,0 +1,16 @@
+# Dependências de Frontend (carregadas via CDN)
+# Nota: Este arquivo é informativo. O projeto não usa um gerenciador de pacotes como pip ou npm.
+
+# Framework de UI
+react==^19.1.0
+react-dom==^19.1.0
+
+# Estilização
+tailwindcss # Carregado via script CDN
+
+# Manipulação de Planilhas
+xlsx==0.18.5
+
+# Geração de PDF
+jspdf==2.5.1
+html2canvas==1.4.1
