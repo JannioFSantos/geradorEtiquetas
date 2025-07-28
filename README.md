@@ -17,12 +17,16 @@ Uma aplicação web moderna e intuitiva para converter planilhas Excel em etique
 ## 🚀 Como Usar
 
 1.  **Prepare sua Planilha**: Crie um arquivo Excel (`.xlsx` ou `.xls`) com os dados dos seus produtos.
-2.  **Acesse a Aplicação**: Abra o site do Gerador de Etiquetas.
+2.  **Acesse a Aplicação**: Abra o site do Gerador de Etiquetas. https://darling-swan-51029e.netlify.app/
 3.  **Carregue o Arquivo**: Clique na área indicada para selecionar sua planilha ou simplesmente arraste e solte o arquivo na página.
-4.  **Customize suas Etiquetas**:
+4.  <img width="1490" height="491" alt="image" src="https://github.com/user-attachments/assets/39e7e27d-4885-4717-88a2-a231c6381aae" />
+
+5.  **Customize suas Etiquetas**:
     - Escolha a cor desejada para o preço (vermelho, azul ou preto).
     - Ative o modo "Promoção" se quiser destacar algum item.
-5.  **Salve em PDF**: Clique no botão **"Salvar como PDF"**. O download do arquivo começará automaticamente.
+    - <img width="1512" height="944" alt="image" src="https://github.com/user-attachments/assets/f2924509-37e4-431d-9aff-a1743d755fb6" />
+
+6.  **Salve em PDF**: Clique no botão **"Salvar como PDF"**. O download do arquivo começará automaticamente.
 
 ## 📋 Estrutura do Arquivo Excel
 
@@ -52,6 +56,4 @@ Para que a aplicação funcione corretamente, sua planilha precisa seguir uma es
 - **Geração de PDF**: [jsPDF](https://github.com/parallax/jsPDF) & [html2canvas](https://html2canvas.hertzen.com/)
 - **Ícones**: SVG personalizados
 
----
 
-&copy; 2024 Gerador de Etiquetas. Todos os direitos reservados.
